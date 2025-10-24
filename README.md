@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![committers.top badge](https://user-badge.committers.top/malaysia_private/hakimnazry24.svg)](https://user-badge.committers.top/malaysia_private/hakimnazry24)
+
+
 <!--
 **hakimnazry24/hakimnazry24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
