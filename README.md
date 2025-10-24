@@ -1,19 +1,44 @@
-## Hi there 👋
+# Hi, I'm Hakim Nazri 👋
 
-[![committers.top badge](https://user-badge.committers.top/malaysia_private/hakimnazry24.svg)](https://user-badge.committers.top/malaysia_private/hakimnazry24)
+## 🚀 About Me
+I am a passionate **Software Developer** and Indie developer, building innovative mobile and web applications. I enjoy turning ideas into real-world solutions and mentoring aspiring IT students through **Motion-U initiatives**.  
+**Ex-President of Motion-U:** 2022/2023 & 2023/2024
 
+---
 
-<!--
-**hakimnazry24/hakimnazry24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Skills
+- **Programming Languages:** PHP, JavaScript, TypeScript, HTML, CSS, Java, Dart, Python  
+- **Frameworks & Tools:** React.js, Node.js, Next.js, Laravel, React Native, Flutter, Flask, Qt  
+- **Operating Systems:** Linux, Windows  
+- **Database:** MySQL, MongoDB, SQLite  
+- **DevOps:** AWS, Docker, Apache2, Nginx, DigitalOcean, Vercel  
+- **Blockchain:** Ethereum, Ganache, Solidity  
+- **AI:** Python, Jupyter Notebook, Scikit-learn  
+- **Others:** WordPress CMS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Projects & Initiatives
+- **Motion-U** – Mentorship programs empowering IT students in web & mobile development  
+- **INNUTRIRE** – Smart application for predicting REE for critically ill patients, in collaboration with IIUM Kuantan  
+- **RAG Chatbots** – AI-powered retrieval-augmented chat systems  
+- **IGIIDeation Judging System** – Streamlined evaluation platform for international competitions  
+- **Boicott App** – Helps consumers make informed purchasing decisions  
+
+---
+
+## 🌱 Currently Learning
+- Data Science  
+- Machine Learning  
+- Software Engineering  
+- Frontend Development  
+- Backend Development  
+- DevOps  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/hakim-nazri)  
+- [Portfolio](https://hakimnazry24.github.io)  
+
+---
