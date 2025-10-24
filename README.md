@@ -1,6 +1,8 @@
 # Hi, I'm Hakim Nazri 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hakimnazry24)
+![Snake animation](https://github.com/hakimnazry24/hakimnazry24/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## 🚀 About Me
