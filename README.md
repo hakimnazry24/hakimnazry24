@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=hakimnazry24)
 
 ## 🚀 About Me
-I am a passionate **Software Developer** and Indie developer, building innovative mobile and web applications. I enjoy turning ideas into real-world solutions and mentoring aspiring IT students through **Motion-U initiatives**.  
-**Ex-President of Motion-U:** 2023/2024
+I am a passionate **Software Developer** and Indie developer, building innovative mobile and web applications.
 
 ---
 
