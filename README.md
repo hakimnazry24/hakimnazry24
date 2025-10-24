@@ -76,6 +76,15 @@ I am a passionate **Software Developer** and Indie developer, building innovativ
 
 ---
 
+## 📊 GitHub Stats & Streaks
+
+![Hakim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimnazry24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimnazry24&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hakimnazry24&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hakimnazry24&theme=radical&no-frame=true&margin-w=5)](https://github.com/hakimnazry24)
+
+---
+
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - [Portfolio](https://your-portfolio.com)  
