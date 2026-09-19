@@ -58,16 +58,6 @@ I am a passionate **Software Developer** and Indie developer, building innovativ
 
 ---
 
-## 🏆 Projects & Initiatives
-- **Motion-U** – Mentorship programs empowering IT students in web & mobile development
-- **CodeDojo** – Hosting weekly software development classes for computer science students; chilling, learning, and coding together  
-- **INNUTRIRE** – Smart application for predicting REE for critically ill patients, in collaboration with IIUM Kuantan  
-- **RAG Chatbots** – AI-powered retrieval-augmented chat systems  
-- **IGIIDeation Judging System** – Streamlined evaluation platform for international competitions  
-- **Boicott App** – Helps consumers make informed purchasing decisions  
-
----
-
 ## 🌱 Currently Learning
 - Data Science  
 - Machine Learning  
