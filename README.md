@@ -1,6 +1,6 @@
 # Hi, I'm Hakim Nazri 👋
 
-**Forward deployed engineer** — I build AI systems, ship them to clients, and keep them running.
+**Forward deployed engineer** — I own products end to end, from client requirements to design, build, deployment and support.
 
 - 🏥 Developer of **INNUTRIRE**, AI nutrition support for ICU patients
 - 🤖 FDE at **fileAI**, plugging document AI into clients' systems
