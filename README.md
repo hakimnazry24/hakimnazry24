@@ -56,7 +56,7 @@
 
 ## 🔭 Into
 
-AI agents · ML for healthcare · self-hosting · cybersecurity
+AI agents · ML for healthcare · self-hosting · cybersecurity · sales and marketing
 
 ---
 
